@@ -1,0 +1,46 @@
+Key,English
+notext,Nothing is chosen
+layer_skeleton,Skeleton
+cervical_vertibrae,Cervical Vertibrae
+clavicle_left,Left Clavicle
+clavicle_right,Right Clavicle
+femur_left,Left Femur
+femur_right,Right Femur
+foot_left,Left Foot
+foot_right,Right Foot
+hand_left,Left Hand
+hand_right,Right Hand
+humerus_left,Left Humerus
+humerus_right,Right Hurmerus
+jaw,Jaw
+lumbar_vertibrae,Lumbar Vertibrae
+pelvis,Pelvis
+ribcage,Ribcage
+scapula_left,Left Scapula
+scapula_right,Right Scapula
+skull,Skull
+teeth_lower,Lower Teeth
+teeth_upper,Upper Teeth
+thoracic_vertibrae,Thoracic Vertibrae
+tibia_fibula_left,Left Tibia Fibula
+tibia_fibula_right,Right Tibia Fibula
+ulna_radius_left,Left Ulna Radius
+ulna_radius_right,Right Ulna Radius
+layer_cardio_vascular,Cardio Vascular
+arteries_arm_left,Left Arm Arteries
+arteries_arm_right,Right Arm Arteries
+arteries_head_thoracic,Head Thoracic Arteries
+arteries_leg_left,Left Leg Arteries
+arteries_leg_right,Right Leg Arteries
+arteries_torso,Torso Arteries
+bronchus,Bronchus
+heart,Heart
+lung_left,Left Lung
+lung_right,Right Lung
+trachea,Trachea
+veins_arm_left,Left Arm Veins
+veins_arm_right,Right Arm Veins
+veins_head_thoracic,Head Thoracic Veins
+veins_leg_left,Left Leg Veins
+veins_leg_right,Right Leg Veins
+veins_torso,Torso Veins
